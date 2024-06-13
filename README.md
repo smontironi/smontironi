@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hola! Bienvenido 👋
 
+:computer: Sobre Mi :satellite:
+:corn:
+
+Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. Apasionado por los datos y los mapas me forme en Sistemas De Información Geográficos (GIS) y en Data Science.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,opencv,postgres,py,r" />
+  </a>
+</p>
 <!--
 **smontironi/smontironi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
