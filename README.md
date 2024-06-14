@@ -1,13 +1,13 @@
 ## Hola! Bienvenido 👋
 
-:computer: Sobre Mi :satellite:
-:corn:
+Sobre Mi :computer::satellite::earth_americas::corn::bar_chart::chart_with_upwards_trend:
 
 Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. Apasionado por los datos y los mapas me forme en Sistemas De Información Geográficos (GIS) y en Data Science.
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,opencv,postgres,py,r" />
+    <img src="https://skillicons.dev/icons?i=anaconda,opencv,postgres,py,sklearn,tensorflow,r,js" />
   </a>
 </p>
 <!--
