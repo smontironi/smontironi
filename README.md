@@ -7,7 +7,7 @@ Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. Apasionado por lo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,opencv,postgres,py,sklearn,tensorflow,r,js" />
+    <img src="https://skillicons.dev/icons?i=anaconda,postgres,py,r,js" />
   </a>
 </p>
 <!--
