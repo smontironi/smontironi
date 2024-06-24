@@ -1,8 +1,21 @@
 ## Hola! Bienvenido 👋
 
-Sobre Mi :computer::satellite::earth_americas::corn::bar_chart::chart_with_upwards_trend:
+Sobre Mi :computer::satellite::earth_americas::corn::tractor::bar_chart::chart_with_upwards_trend:
 
-Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. Apasionado por los datos y los mapas me forme en Sistemas De Información Geográficos (GIS) y en Data Science.
+Apasionado por los datos y los mapas me forme en Sistemas De Información Geográficos (GIS) y en Data Science. Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. 
+
+En Construcción permanente :construction_worker::construction:
+
+Algunos proyectos que voy actualizando :sunglasses:
+
+[#30DayMapChallenge](https://github.com/smontironi/30DayMapChallenge_2023)
+
+Desafio que consiste en crear mapas durante 30 dias.
+
+[Alquileres](https://github.com/smontironi/AlquileresR4)
+
+Recolecté datos de alquileres de Río Cuarto en el mes de enero y realice un analisis exploratorio de los datos.
+
 
 
 <p align="center">
