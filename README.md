@@ -8,14 +8,13 @@ En Construcción permanente :construction_worker::construction:
 
 Algunos proyectos que voy actualizando :sunglasses:
 
-[#30DayMapChallenge](https://github.com/smontironi/30DayMapChallenge_2023)
-
-Desafio que consiste en crear mapas durante 30 dias.
-
 [Alquileres](https://github.com/smontironi/AlquileresR4)
 
 Recolecté datos de alquileres de Río Cuarto en el mes de enero y realice un analisis exploratorio de los datos.
 
+[#30DayMapChallenge](https://github.com/smontironi/30DayMapChallenge_2023)
+
+Desafio que consiste en crear mapas durante 30 dias.
 
 
 <p align="center">
