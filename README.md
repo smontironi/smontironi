@@ -2,7 +2,7 @@
 
 Sobre Mi :computer::satellite::earth_americas::corn::tractor::bar_chart::chart_with_upwards_trend:
 
-Apasionado por los datos y los mapas me formé en Sistemas De Información Geográficos (GIS) y en Data Science. Soy Técnico agropecuario y próximamente Ingeniero Agrónomo. 
+Apasionado por los datos y los mapas me formé en Sistemas De Información Geográficos (GIS) y en Data Science. 
 
 En permanente construcción  :construction_worker::construction:
 
